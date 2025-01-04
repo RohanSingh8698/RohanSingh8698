@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Data Analytics Major @ Boston University
 ---------------------------------------
 
+<br> My most recent experience was a summer internship at Boston While Black, where I worked as a data analyst.
 <br> I have previously worked at Gartner as a Full-Time Data Analyst for 1.5 years. 
 <br> I have also worked at Indian Oil as a Supply Chain Analyst Intern during my Management Internship for 6 months. 
 <br> Currently I am learning about Machine Learning and Data Science in my Graduate Course.
