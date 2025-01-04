@@ -9,7 +9,7 @@ Graduate Data Analytics Major @ Boston University
 <br> Currently I am learning about Machine Learning and Data Science in my Graduate Course.
 
 * 🌍  I'm based in Boston, MA, USA
-* 🖥  See my portfolio at
+* 🖥  See my portfolio at https://personal-portfolio-lilac-six.vercel.app/
 * ✉  You can contact me at [ronsingh0098@gmail.com](mailto:ronsingh0098@gmail.com)
 * 🚀  I'm currently working on [Stock Prediction Application with Python and AWS]
 * 🧠  I recently completed my certifications on Google Data Analytics 
