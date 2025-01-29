@@ -1,5 +1,5 @@
-**👋 Welcome to My GitHub Profile!**
-**I'm Rohan Singh**
+****👋 Welcome to My GitHub Profile!****
+****I'm Rohan Singh****
 📊 Data Scientist | Machine Learning Enthusiast | Problem Solver
 
 **🎓 Master's Student at Boston University**
