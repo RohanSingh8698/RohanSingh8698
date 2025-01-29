@@ -1,11 +1,11 @@
-👋 Welcome to My GitHub Profile!
-I'm Rohan Singh
+**👋 Welcome to My GitHub Profile!**
+**I'm Rohan Singh**
 📊 Data Scientist | Machine Learning Enthusiast | Problem Solver
 
-🎓 Master's Student at Boston University
+**🎓 Master's Student at Boston University**
 🔎 Passionate about uncovering insights and solving real-world problems with Data Science & Machine Learning
 
-🚀 What I Bring to the Table
+**🚀 What I Bring to the Table**
 🔍 Analytical Thinking
 Transforming raw data into actionable insights using statistical analysis, feature engineering, and ML techniques.
 Ensuring every data-driven solution aligns with business objectives.
